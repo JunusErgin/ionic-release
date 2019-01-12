@@ -1,0 +1,17 @@
+{
+  "RELEASE_FOLDER": "release",
+  "APP_NAME": "",
+  "KEYSTORE_NAME": "release/app-key.keystore",
+  "KEYSTORE_PASSWORD": "",
+  "FULL_NAME": "",
+  "ORGANIZAtIONAL_UNIT": "",
+  "ORGANIZATION": "",
+  "CITY": "",
+  "STATE": "",
+  "COUNTRY_CODE": "",
+  "packageJsonPath": "./package.json",
+  "ANDROID_PLATFORM_PATH": "./platforms/android",
+  "CONFIG_XML_PATH": "./config.xml",
+  "UNSIGNED_APK_PATH": "platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk",
+  "ZIPALIGN_PATH": "zipalign.exe"
+}
